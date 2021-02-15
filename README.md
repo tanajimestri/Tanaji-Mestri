@@ -1,7 +1,7 @@
 # Tanaji-Mestri
 Data Science - Portfolio
 
-# IBM HR Analytics Employee Attrition Modeling
+# [IBM HR Analytics Employee Attrition Modeling](https://github.com/tanajimestri/IBM-Emp-Attrition---LogisticRegression)
 
 DESCRIPTION -
 
