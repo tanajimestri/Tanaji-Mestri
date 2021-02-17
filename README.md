@@ -34,3 +34,12 @@ Problem Objective : Perform a service request data analysis of New York City 311
 7. Check if marital status mattered for a subscription to deposit
 8. Check if age and marital status together mattered for a subscription to deposit scheme
 9. Do feature engineering for the bank and find the right age effect on the campaign.
+
+# [Sales Performance Analysis using Tableau](https://github.com/tanajimestri/Sales-Performance-Analysis)
+Analysis Tasks Completed -
+1. Created a bullet chart with Category and Segment dimensions and Sales measures.
+2. Blend the data with the Saved Sample - Sales Target data set to bring in the Sales Target measure.
+3. Color code the chart to identify Categories and Segments that are above or below target.
+4. Added the year of sales to the view to identify trends and outliers.
+5. Added a filter so that the user can select one, more than one, or all years.
+6. Created a dashboard which presents monthly sales performance by product segment and product category to help client identifying the segments and categories that have met or    exceeded their sales targets, as well as those that have not met their sales targets.
