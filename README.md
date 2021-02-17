@@ -22,3 +22,15 @@ Problem Objective : Perform a service request data analysis of New York City 311
    I. Whether the average response time across complaint types is similar or not (overall)
    II. Are the type of complaint or service requested and location related?
 5. Stated the Null and Alternate hypothesis and then provided statistical test to accept or reject the Null Hypothesis along with the corresponding ‘p-value’.
+
+# [Market-Analysis-in-Banking-Domain](https://github.com/tanajimestri/Market-Analysis-in-Banking-Domain)
+# Big Data Analysis using Spark
+1. Load data and create a Spark data frame
+2. Give marketing success rate (No. of people subscribed / total no. of entries)
+3. Give marketing failure rate
+4. Give the maximum, mean, and minimum age of the average targeted customer
+5. Check the quality of customers by checking average balance, median balance of customers
+6. Check if age matters in marketing subscription for deposit
+7. Check if marital status mattered for a subscription to deposit
+8. Check if age and marital status together mattered for a subscription to deposit scheme
+9. Do feature engineering for the bank and find the right age effect on the campaign.
