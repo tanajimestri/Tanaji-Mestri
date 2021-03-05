@@ -1,6 +1,19 @@
 # Tanaji-Mestri
 Data Science - Portfolio
 
+# [Healthcare - Capstone End-to-End Project](https://github.com/tanajimestri/Capstone-Project---Healthcare)
+
+Problem Statement-
+1. NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases) research creates knowledge about and treatments for the most chronic, costly, and consequential diseases.
+2. The dataset used in this project is originally from NIDDK. The objective is to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
+3. Build a model to accurately predict whether the patients in the dataset have diabetes or not.
+
+* Performed descriptive analysis on dataset
+* Visually explored variables using histograms
+* Created Profile report using pandas profiling library
+* Used LogisticRegression algorithm to predict the outcome
+* Built a user facing API using Flask and deployed on Heroku platform - [Link to App](https://niddk-diabetes-prediction-api.herokuapp.com)
+
 # [IBM HR Analytics Employee Attrition Modeling](https://github.com/tanajimestri/IBM-Emp-Attrition---LogisticRegression)
 
 IBM is an American MNC operating in around 170 countries with major business vertical as computing, software, and hardware. Attrition is a major risk to service-providing organizations where trained and experienced people are the assets of the company. The organization would like to identify the factors which influence the attrition of employees.
